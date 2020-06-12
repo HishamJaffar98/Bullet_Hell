@@ -51,10 +51,16 @@ To run the game using the WebGL build :-
 - Right Click the `index.html` and chose `open with` **Microsoft Edge** or **Mozilla Firefox** (*Only these two browsers can run WEBGL builds without further configurations*)
 
 # Instructions and Controls
+***
 Destroy waves of enemies while trying to maneuver the demon slayer to avoid incoming projectiles of the enemies.
 
 Controls:-
 - Use the `W\A\S\D ` keys or `UP\LEFT\DOWN\RIGHT` arrow keys to move the player within the game.
 - Use `Left Mouse Click` to select UI options (*Start Menu, Game Over Screen and Pause Menu*)
-- Use `Left 
+- Use `Space` to shoot.
+- Use `Escape` to toggle the pause Menu
+- Use `M` to toggle the volume level (*100%, 75%, 50%, 25%*)
+
+# Further Information
+For detailed design specifications please refer to the [Wiki] (https://github.com/HishamJaffar98/Block-Breaker/wiki/Bullet-Hell-Design) of this respository
 
