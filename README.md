@@ -34,4 +34,27 @@ The [Final_Game_Builds](Final_Game_Builds) folder consists of two final builds o
 1. A standalone PC build ---->[PC](Final_Game_Builds/Bullet_Hell_PC)
 2. A WebGL build         ---->[WebGL](Final_Game_Builds/Bullet_Hell_Web)
 
+# Running the Game
+***
+To run the game using the PC build :-
+
+- Download the Repository.
+- Open the [Final_Game_Builds](Final_Game_Builds) folder.
+- Open the [Bullet_Hell_PC](Final_Game_Builds/Block_Breaker_PC_Build) folder.
+- Double click the `Bullet_Hell.exe` executable to run the game.
+
+To run the game using the WebGL build :-
+
+- Download the Repository.
+- Open the [Final_Game_Builds](Final_Game_Builds) folder.
+- Open the [Bullet_Hell_Web](Final_Game_Builds/Bullet_Hell_Web) folder.
+- Right Click the `index.html` and chose `open with` **Microsoft Edge** or **Mozilla Firefox** (*Only these two browsers can run WEBGL builds without further configurations*)
+
+# Instructions and Controls
+Destroy waves of enemies while trying to maneuver the demon slayer to avoid incoming projectiles of the enemies.
+
+Controls:-
+- Use the `W\A\S\D ` keys or `UP\LEFT\DOWN\RIGHT` arrow keys to move the player within the game.
+- Use `Left Mouse Click` to select UI options (*Start Menu, Game Over Screen and Pause Menu*)
+- Use `Left 
 
