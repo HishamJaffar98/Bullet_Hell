@@ -1,0 +1,1691 @@
+fileFormatVersion: 2
+guid: e98089eac39282442b7b8c0871bf525e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2576399850201286975
+    second: Green_Fire_0
+  - first:
+      213: 5148641281090539266
+    second: Green_Fire_1
+  - first:
+      213: 6631638186179421331
+    second: Green_Fire_2
+  - first:
+      213: -3882246876840256729
+    second: Green_Fire_3
+  - first:
+      213: 2638536634329115357
+    second: Green_Fire_4
+  - first:
+      213: -213340008793349574
+    second: Green_Fire_5
+  - first:
+      213: -8709794569132321490
+    second: Green_Fire_6
+  - first:
+      213: 8328737750292871610
+    second: Green_Fire_7
+  - first:
+      213: 7034585671705294425
+    second: Green_Fire_8
+  - first:
+      213: -8426799242123972176
+    second: Green_Fire_9
+  - first:
+      213: 8418474713696749801
+    second: Green_Fire_10
+  - first:
+      213: 6979061487361488717
+    second: Green_Fire_11
+  - first:
+      213: 4039958015414600341
+    second: Green_Fire_12
+  - first:
+      213: 8443531223919119773
+    second: Green_Fire_13
+  - first:
+      213: 5017006073478826026
+    second: Green_Fire_14
+  - first:
+      213: -5208296823084979060
+    second: Green_Fire_15
+  - first:
+      213: 8663724933052263748
+    second: Green_Fire_16
+  - first:
+      213: 3360819366029186360
+    second: Green_Fire_17
+  - first:
+      213: 5331188295421094562
+    second: Green_Fire_18
+  - first:
+      213: -8779440032612391712
+    second: Green_Fire_19
+  - first:
+      213: 1208879599919911840
+    second: Green_Fire_20
+  - first:
+      213: 9055221298933427142
+    second: Green_Fire_21
+  - first:
+      213: 5797266402180090865
+    second: Green_Fire_22
+  - first:
+      213: 7682221773394310637
+    second: Green_Fire_23
+  - first:
+      213: 3800936692845911397
+    second: Green_Fire_24
+  - first:
+      213: -3440602783992270057
+    second: Green_Fire_25
+  - first:
+      213: -8949612963946251093
+    second: Green_Fire_26
+  - first:
+      213: -944207461079549599
+    second: Green_Fire_27
+  - first:
+      213: -510161889726583239
+    second: Green_Fire_28
+  - first:
+      213: -4299605226057651296
+    second: Green_Fire_29
+  - first:
+      213: 706435225872285220
+    second: Green_Fire_30
+  - first:
+      213: 8911097802671802203
+    second: Green_Fire_31
+  - first:
+      213: -7299053310059978349
+    second: Green_Fire_32
+  - first:
+      213: -2315091401146534484
+    second: Green_Fire_33
+  - first:
+      213: -2898615885579912675
+    second: Green_Fire_34
+  - first:
+      213: -7723861128895433163
+    second: Green_Fire_35
+  - first:
+      213: -694128006555186731
+    second: Green_Fire_36
+  - first:
+      213: -4464677289603457067
+    second: Green_Fire_37
+  - first:
+      213: 8601470805777473019
+    second: Green_Fire_38
+  - first:
+      213: -1902278831246451411
+    second: Green_Fire_39
+  - first:
+      213: 8091543897687810097
+    second: Green_Fire_40
+  - first:
+      213: 5611146681605156257
+    second: Green_Fire_41
+  - first:
+      213: 4439114367103596979
+    second: Green_Fire_42
+  - first:
+      213: 4639129913036404772
+    second: Green_Fire_43
+  - first:
+      213: 2097004951890129935
+    second: Green_Fire_44
+  - first:
+      213: 7684345163423858773
+    second: Green_Fire_0
+  - first:
+      213: -4580423933920184866
+    second: Green_Fire_1
+  - first:
+      213: 4487732063164055215
+    second: Green_Fire_2
+  - first:
+      213: -1047626801421360467
+    second: Green_Fire_3
+  - first:
+      213: -424594124973460582
+    second: Green_Fire_4
+  - first:
+      213: 3827879411020572167
+    second: Green_Fire_5
+  - first:
+      213: -710356125120760791
+    second: Green_Fire_6
+  - first:
+      213: -8929949645923665188
+    second: Green_Fire_7
+  - first:
+      213: 1351604813654044559
+    second: Green_Fire_8
+  - first:
+      213: 1017642486422900867
+    second: Green_Fire_9
+  - first:
+      213: 1572541347698193445
+    second: Green_Fire_10
+  - first:
+      213: 6762574278017757346
+    second: Green_Fire_11
+  - first:
+      213: 1938904917856845325
+    second: Green_Fire_12
+  - first:
+      213: -2494775661381181981
+    second: Green_Fire_13
+  - first:
+      213: 6449304828871482820
+    second: Green_Fire_14
+  - first:
+      213: 5925465588878936379
+    second: Green_Fire_15
+  - first:
+      213: 6230009540695544389
+    second: Green_Fire_16
+  - first:
+      213: -6320362789950182304
+    second: Green_Fire_17
+  - first:
+      213: -6739169545637215071
+    second: Green_Fire_18
+  - first:
+      213: 7661847270394408727
+    second: Green_Fire_19
+  - first:
+      213: -3260828563197790160
+    second: Green_Fire_20
+  - first:
+      213: -3571530173484653364
+    second: Green_Fire_21
+  - first:
+      213: -3584243849754975630
+    second: Green_Fire_22
+  - first:
+      213: 6902100992651333212
+    second: Green_Fire_23
+  - first:
+      213: -2559226083920223396
+    second: Green_Fire_24
+  - first:
+      213: -1975860029768643546
+    second: Green_Fire_25
+  - first:
+      213: 4546199903281084687
+    second: Green_Fire_26
+  - first:
+      213: -1053707787481618424
+    second: Green_Fire_27
+  - first:
+      213: 4481395788697578348
+    second: Green_Fire_28
+  - first:
+      213: 66970821777469776
+    second: Green_Fire_29
+  - first:
+      213: -4873679853392888423
+    second: Green_Fire_30
+  - first:
+      213: 5434785541456306973
+    second: Green_Fire_31
+  - first:
+      213: -6885683885703787362
+    second: Green_Fire_32
+  - first:
+      213: -1751249609941734909
+    second: Green_Fire_33
+  - first:
+      213: -915356759020549917
+    second: Green_Fire_34
+  - first:
+      213: 4664451247771165234
+    second: Green_Fire_35
+  - first:
+      213: 161200597423665383
+    second: Green_Fire_36
+  - first:
+      213: -8459380359382299943
+    second: Green_Fire_37
+  - first:
+      213: -7092167893671122037
+    second: Green_Fire_38
+  - first:
+      213: 7335775124504594671
+    second: Green_Fire_39
+  - first:
+      213: -4336212500740714036
+    second: Green_Fire_40
+  - first:
+      213: -2638998623326019889
+    second: Green_Fire_41
+  - first:
+      213: -5453857660200789542
+    second: Green_Fire_42
+  - first:
+      213: 9016651451104440522
+    second: Green_Fire_43
+  - first:
+      213: 1836790253157040077
+    second: Green_Fire_44
+  - first:
+      213: -451374704721166755
+    second: Green_Fire_45
+  - first:
+      213: 1390062966602606828
+    second: Green_Fire_46
+  - first:
+      213: -9059802162986177096
+    second: Green_Fire_47
+  - first:
+      213: -7115384471716842941
+    second: Green_Fire_48
+  - first:
+      213: -2597094660179283947
+    second: Green_Fire_49
+  - first:
+      213: 6556551567384373612
+    second: Green_Fire_50
+  - first:
+      213: 8709893433645647700
+    second: Green_Fire_51
+  - first:
+      213: 6493008591755899015
+    second: Green_Fire_52
+  - first:
+      213: 5902618541161178571
+    second: Green_Fire_53
+  - first:
+      213: 887459417509950144
+    second: Green_Fire_54
+  - first:
+      213: 146330585625826298
+    second: Green_Fire_55
+  - first:
+      213: 5318670597666652395
+    second: Green_Fire_56
+  - first:
+      213: 1194006646442268053
+    second: Green_Fire_57
+  - first:
+      213: 1117594394078061125
+    second: Green_Fire_58
+  - first:
+      213: 4460790812195960372
+    second: Green_Fire_59
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 25
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Green_Fire_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 125
+        width: 9
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 550ce55763744aa60800000000000000
+      internalID: 7684345163423858773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green_Fire_1
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 125
+        width: 9
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed57df143b01f60c0800000000000000
+      internalID: -4580423933920184866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green_Fire_2
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 125
+        width: 9
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fae3600d880a74e30800000000000000
+      internalID: 4487732063164055215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green_Fire_3
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 125
+        width: 9
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da2e91489f41671f0800000000000000
+      internalID: -1047626801421360467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green_Fire_4
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 125
+        width: 9
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a933d3794e98b1af0800000000000000
+      internalID: -424594124973460582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green_Fire_5
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 125
+        width: 9
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 706a9e81b0c5f1530800000000000000
+      internalID: 3827879411020572167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green_Fire_6
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 125
+        width: 9
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 924772a2ede4426f0800000000000000
+      internalID: -710356125120760791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green_Fire_7
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 125
+        width: 9
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cda38942c12721480800000000000000
+      internalID: -8929949645923665188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green_Fire_8
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 125
+        width: 9
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8fae8aba6dd1c210800000000000000
+      internalID: 1351604813654044559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green_Fire_9
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 125
+        width: 9
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 380159f13746f1e00800000000000000
+      internalID: 1017642486422900867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green_Fire_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 100
+        width: 9
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5243a28260ac2d510800000000000000
+      internalID: 1572541347698193445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green_Fire_11
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 100
+        width: 9
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a03178e97d79dd50800000000000000
+      internalID: 6762574278017757346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green_Fire_12
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 100
+        width: 9
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0e7d1200cf58ea10800000000000000
+      internalID: 1938904917856845325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green_Fire_13
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 100
+        width: 9
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ed951df0c6c06dd0800000000000000
+      internalID: -2494775661381181981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green_Fire_14
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 100
+        width: 9
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cd981d6298808950800000000000000
+      internalID: 6449304828871482820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green_Fire_15
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 100
+        width: 9
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b390ee10f8b7b3250800000000000000
+      internalID: 5925465588878936379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green_Fire_16
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 100
+        width: 9
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 542d3745ba0757650800000000000000
+      internalID: 6230009540695544389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green_Fire_17
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 100
+        width: 9
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06c2c6d778f8948a0800000000000000
+      internalID: -6320362789950182304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green_Fire_18
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 100
+        width: 9
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a4c92ff009a972a0800000000000000
+      internalID: -6739169545637215071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green_Fire_19
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 100
+        width: 9
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71fa72b8f79545a60800000000000000
+      internalID: 7661847270394408727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green_Fire_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 75
+        width: 9
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 038f529c2b53fb2d0800000000000000
+      internalID: -3260828563197790160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green_Fire_21
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 75
+        width: 9
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc4abd0ea306f6ec0800000000000000
+      internalID: -3571530173484653364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green_Fire_22
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 75
+        width: 9
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 272e9f27535324ec0800000000000000
+      internalID: -3584243849754975630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green_Fire_23
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 75
+        width: 9
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5e8adea84039cf50800000000000000
+      internalID: 6902100992651333212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green_Fire_24
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 75
+        width: 9
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c536500af6dcb7cd0800000000000000
+      internalID: -2559226083920223396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green_Fire_25
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 75
+        width: 9
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62c4fbf75c55494e0800000000000000
+      internalID: -1975860029768643546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green_Fire_26
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 75
+        width: 9
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f09fbf8a9b8571f30800000000000000
+      internalID: 4546199903281084687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green_Fire_27
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 75
+        width: 9
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 808681e995a7061f0800000000000000
+      internalID: -1053707787481618424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green_Fire_28
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 75
+        width: 9
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6b2043f9bd113e30800000000000000
+      internalID: 4481395788697578348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green_Fire_29
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 75
+        width: 9
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 051bc5a8b9dede000800000000000000
+      internalID: 66970821777469776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green_Fire_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 50
+        width: 9
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99df985cef53d5cb0800000000000000
+      internalID: -4873679853392888423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green_Fire_31
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 50
+        width: 9
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d13aeecb7ac3c6b40800000000000000
+      internalID: 5434785541456306973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green_Fire_32
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 50
+        width: 9
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9c8ef4ecf22170a0800000000000000
+      internalID: -6885683885703787362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green_Fire_33
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 50
+        width: 9
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30aa16e12cf42b7e0800000000000000
+      internalID: -1751249609941734909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green_Fire_34
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 50
+        width: 9
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e8c3df90effb43f0800000000000000
+      internalID: -915356759020549917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green_Fire_35
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 50
+        width: 9
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 232278f42b57bb040800000000000000
+      internalID: 4664451247771165234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green_Fire_36
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 50
+        width: 9
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e0b40bd613bc3200800000000000000
+      internalID: 161200597423665383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green_Fire_37
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 50
+        width: 9
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9da0a13026e3a9a80800000000000000
+      internalID: -8459380359382299943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green_Fire_38
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 50
+        width: 9
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8b6d4a60ee839d90800000000000000
+      internalID: -7092167893671122037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green_Fire_39
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 50
+        width: 9
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe84e30fb98edc560800000000000000
+      internalID: 7335775124504594671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green_Fire_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 25
+        width: 9
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc1ddbe64bda2d3c0800000000000000
+      internalID: -4336212500740714036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green_Fire_41
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 25
+        width: 9
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fce58edebb4606bd0800000000000000
+      internalID: -2638998623326019889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green_Fire_42
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 25
+        width: 9
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad950349a510054b0800000000000000
+      internalID: -5453857660200789542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green_Fire_43
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 25
+        width: 9
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac03796f8b4912d70800000000000000
+      internalID: 9016651451104440522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green_Fire_44
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 25
+        width: 9
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcf3356e0079d7910800000000000000
+      internalID: 1836790253157040077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green_Fire_45
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 25
+        width: 9
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5e7f78f8156cb9f0800000000000000
+      internalID: -451374704721166755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green_Fire_46
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 25
+        width: 9
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce826cb37ee7a4310800000000000000
+      internalID: 1390062966602606828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green_Fire_47
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 25
+        width: 9
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bda4e30fed154280800000000000000
+      internalID: -9059802162986177096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green_Fire_48
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 25
+        width: 9
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 342bcfa9583114d90800000000000000
+      internalID: -7115384471716842941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green_Fire_49
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 25
+        width: 9
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51033f3aa2445fbd0800000000000000
+      internalID: -2597094660179283947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green_Fire_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 9
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c69e97599ec8dfa50800000000000000
+      internalID: 6556551567384373612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green_Fire_51
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 0
+        width: 9
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 457c4ff4ee1cfd870800000000000000
+      internalID: 8709893433645647700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green_Fire_52
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 0
+        width: 9
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7807b2ba9eccb1a50800000000000000
+      internalID: 6493008591755899015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green_Fire_53
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 0
+        width: 9
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc5eb8e2a405ae150800000000000000
+      internalID: 5902618541161178571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green_Fire_54
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 0
+        width: 9
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c2714563a3e05c00800000000000000
+      internalID: 887459417509950144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green_Fire_55
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 0
+        width: 9
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af3900074eed70200800000000000000
+      internalID: 146330585625826298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green_Fire_56
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 0
+        width: 9
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be04c33aab6bfc940800000000000000
+      internalID: 5318670597666652395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green_Fire_57
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 0
+        width: 9
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59595a408b6f19010800000000000000
+      internalID: 1194006646442268053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green_Fire_58
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 0
+        width: 9
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 542adfd1e2e728f00800000000000000
+      internalID: 1117594394078061125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Green_Fire_59
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 0
+        width: 9
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43634420c99e7ed30800000000000000
+      internalID: 4460790812195960372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
