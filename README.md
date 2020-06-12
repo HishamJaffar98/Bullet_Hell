@@ -62,5 +62,5 @@ Controls:-
 - Use `M` to toggle the volume level (*100%, 75%, 50%, 25%*)
 
 # Further Information
-For detailed design specifications please refer to the [Wiki](https://github.com/HishamJaffar98/Block-Breaker/wiki/Bullet-Hell-Design) of this respository
+For detailed design specifications please refer to the [Wiki](https://github.com/HishamJaffar98/Block-Breaker/wiki/Bullet-Hell-Design) of this respository.
 
