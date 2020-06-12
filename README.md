@@ -21,7 +21,7 @@ This consists of the all the entities used to make the game. These entities (ass
 4. [Fonts](Assets/Fonts)
 5. [Materials](Assets/Material)
 6. [Paths](Assets/Paths)
-7. [Prefabs](Assets/PreFabs)
+7. [Prefabs](Assets/Prefabs)
 8. [Scenes](Assets/Scenes)
 9. [Scripts](Assets/Scripts)
 10. [Sprites](Assets/Sprites) 
@@ -40,7 +40,7 @@ To run the game using the PC build :-
 
 - Download the Repository.
 - Open the [Final_Game_Builds](Final_Game_Builds) folder.
-- Open the [Bullet_Hell_PC](Final_Game_Builds/Block_Breaker_PC_Build) folder.
+- Open the [Bullet_Hell_PC](Final_Game_Builds/Bullet_Hell_PC) folder.
 - Double click the `Bullet_Hell.exe` executable to run the game.
 
 To run the game using the WebGL build :-
@@ -62,5 +62,5 @@ Controls:-
 - Use `M` to toggle the volume level (*100%, 75%, 50%, 25%*)
 
 # Further Information
-For detailed design specifications please refer to the [Wiki] (https://github.com/HishamJaffar98/Block-Breaker/wiki/Bullet-Hell-Design) of this respository
+For detailed design specifications please refer to the [Wiki](https://github.com/HishamJaffar98/Block-Breaker/wiki/Bullet-Hell-Design) of this respository
 
