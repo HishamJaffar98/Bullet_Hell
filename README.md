@@ -29,10 +29,7 @@ This consists of the all the entities used to make the game. These entities (ass
 12. [Waves](Assets/Waves)
 
 ## Builds
-The [Final_Game_Builds](Final_Game_Builds) folder consists of two final builds of the game. These builds are:-
-
-1. A standalone PC build ---->[PC](Final_Game_Builds/Bullet_Hell_PC)
-2. A WebGL build         ---->[WebGL](Final_Game_Builds/Bullet_Hell_Web)
+The [Final_Game_Builds](Final_Game_Builds) folder consists of a standalone [PC](Final_Game_Builds/Bullet_Hell_PC) build for the game.
 
 # Running the Game
 ***
