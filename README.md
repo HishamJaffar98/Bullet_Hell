@@ -40,13 +40,6 @@ To run the game using the PC build :-
 - Open the [Bullet_Hell_PC](Final_Game_Builds/Bullet_Hell_PC) folder.
 - Double click the `Bullet_Hell.exe` executable to run the game.
 
-To run the game using the WebGL build :-
-
-- Download the Repository.
-- Open the [Final_Game_Builds](Final_Game_Builds) folder.
-- Open the [Bullet_Hell_Web](Final_Game_Builds/Bullet_Hell_Web) folder.
-- Right Click the `index.html` and chose `open with` **Microsoft Edge** or **Mozilla Firefox** (*Only these two browsers can run WEBGL builds without further configurations*)
-
 # Instructions and Controls
 ***
 Destroy waves of enemies while trying to maneuver the demon slayer to avoid incoming projectiles of the enemies.
